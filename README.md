@@ -1,4 +1,4 @@
-# SortingAlgorithms
+ # SortingAlgorithms
 Dynamic Sorting Algorithms Implementation using NodeJS
 
 This project implements insertion sort, bubble sort, merge sort and merge sort and displays the total time to execute the sorting.
